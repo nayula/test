@@ -12,7 +12,7 @@ namespace sample_proj
 {
     public partial class Form1 : Form
     {
-        List<Color> _colors = new List<Color> { Color.Black, Color.Red, Color.Aqua, Color.Brown };
+        List<Color> _colors = new List<Color> { Color.Black, Color.White, Color.Red, Color.Aqua, Color.Brown };
         public Form1()
         {
             InitializeComponent();
