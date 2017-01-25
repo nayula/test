@@ -7,3 +7,12 @@ C:\git_travis\sample_proj\obj\Debug\sample_proj.Properties.Resources.resources
 C:\git_travis\sample_proj\obj\Debug\sample_proj.csproj.GenerateResource.Cache
 C:\git_travis\sample_proj\obj\Debug\sample_proj.exe
 C:\git_travis\sample_proj\obj\Debug\sample_proj.pdb
+c:\morantest\test\bin\Debug\sample_proj.exe.config
+c:\morantest\test\obj\Debug\sample_proj.exe
+c:\morantest\test\obj\Debug\sample_proj.pdb
+c:\morantest\test\bin\Debug\sample_proj.exe
+c:\morantest\test\bin\Debug\sample_proj.pdb
+c:\morantest\test\obj\Debug\sample_proj.csprojResolveAssemblyReference.cache
+c:\morantest\test\obj\Debug\sample_proj.Form1.resources
+c:\morantest\test\obj\Debug\sample_proj.Properties.Resources.resources
+c:\morantest\test\obj\Debug\sample_proj.csproj.GenerateResource.Cache
