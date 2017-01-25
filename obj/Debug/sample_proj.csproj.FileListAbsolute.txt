@@ -1,0 +1,9 @@
+C:\git_travis\sample_proj\bin\Debug\sample_proj.exe.config
+C:\git_travis\sample_proj\bin\Debug\sample_proj.exe
+C:\git_travis\sample_proj\bin\Debug\sample_proj.pdb
+C:\git_travis\sample_proj\obj\Debug\sample_proj.csprojResolveAssemblyReference.cache
+C:\git_travis\sample_proj\obj\Debug\sample_proj.Form1.resources
+C:\git_travis\sample_proj\obj\Debug\sample_proj.Properties.Resources.resources
+C:\git_travis\sample_proj\obj\Debug\sample_proj.csproj.GenerateResource.Cache
+C:\git_travis\sample_proj\obj\Debug\sample_proj.exe
+C:\git_travis\sample_proj\obj\Debug\sample_proj.pdb
