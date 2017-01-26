@@ -3,8 +3,7 @@ solution: sample_proj.sln
 
 deploy:
   provider: releases
-  api_key: 
-	secure: "22f3a422c6c65f3133eed490e3cf9701a4a4c971"
+  api_key: "ff3bd8227ea02af0a236ad97d5006e99eb119ee4"
   file: "sample_proj.exe"
   skip_cleanup: true
   on:
