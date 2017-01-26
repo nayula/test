@@ -23,6 +23,7 @@ namespace sample_proj
             Random color = new Random();
             int r = color.Next(_colors.Count);
             BackColor = _colors[r];
+
         }
     }
 }
