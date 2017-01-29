@@ -1,6 +1,5 @@
 language: csharp
 solution: sample_proj.sln
-
 deploy:
   provider: releases
   api_key: "ff3bd8227ea02af0a236ad97d5006e99eb119ee4"
