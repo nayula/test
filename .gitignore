@@ -18,7 +18,7 @@
 *.sbr
 *.sdf
 *.pyc
-obj/
+obj*/*
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
