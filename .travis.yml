@@ -5,5 +5,3 @@ deploy:
   api_key: "ff3bd8227ea02af0a236ad97d5006e99eb119ee4"
   file: "sample_proj.exe"
   skip_cleanup: true
-  on:
-    tags: true
